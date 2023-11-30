@@ -1,4 +1,3 @@
 # krishna-start
-1st git repositry
-
-author: krishna joshi
+My 1st git repositry
+Author: Krishna Joshi
